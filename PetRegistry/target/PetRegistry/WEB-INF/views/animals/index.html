@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>All animals</title>
+    <style>
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+        }
+        a {
+            display: block;
+            padding: 10px;
+            margin-bottom: 5px;
+            background-color: #ffffff;
+            border: 1px solid #cccccc;
+            border-radius: 5px;
+            color: #333333;
+            text-decoration: none;
+            transition: background-color 0.2s ease-in-out;
+        }
+        a:hover {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+<h1>All animals</h1>
+<div th:each="animal : ${animals}">
+    <a th:href="@{/animals/{id}(id=${animal.getId()})}"
+       th:text="${'Animal: ' + animal.getName() + ', ' + animal.getTypeAnimal() + ', ' + animal.getAge()}"></a>
+</div>
+
+<br/>
+<hr/>
+
+<a href="/animals/new">Add new animal</a>
+
+<br/>
+<hr/>
+<a href="/">Enter Main page</a>
+</body>
+</html>

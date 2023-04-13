@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PetRegistry:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1a8679d-3bb8-4b61-a727-733e7361399b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/StudyGB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CompNetwork/hw6/.idea/hw6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GB учеба/GB учеба/BootLast-master/.idea/webproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GB учеба/GB учеба/JavaGB/.idea/JavaGB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GB учеба/GB учеба/PythonGB/hw/test tg bot/Записная книга/.idea/Записная книга.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaLec/JavaLec.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaLec/Lec1/Lec1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaLec/Lec3/Iterator/Iterator/Iterator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaLec/Lec3/Lesson_09/repair/SpareParts/SpareParts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaLec/Lec4/Lec4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaLec/Lec4/Lesson_10/Lesson_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaLec/Lec5/Lec5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaLec/Lec5/Tree/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaLec/Lec6/Lec6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem2/endsSecondLesson-master/TestProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem4/endsFourthLesson-master/authorization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem5/Lesson5-master/weatherApi1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem5/Weather/Weather.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem6/Solid-master/HomeWork/HomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem6/Solid-master/HomeWork/out/production/HomeWork/HomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem6/Solid-master/OOP_Lesson6_Solid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem6/Solid-master/SolidDip/SolidDip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem6/Solid-master/SolidIsp1/SolidIsp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem6/Solid-master/SolidLsp1/SolidLsp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem6/Solid-master/SolidLsp2/SolidLsp2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem6/Solid-master/SolidOcp1/SolidOcp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem6/Solid-master/SolidSrp1/SolidSrp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem6/Solid-master/SolidSrp1/SolidSrp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem6/Solid-master/SolidSrp2/SolidSrp2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/JavaOOP/JavaSem/sem7/patterns-master/patterns1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/ACMP/.idea/ACMP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/Django/test2/.idea/test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVCapp1/SpringMVCapp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/src/main/java/ru/solarev/vetpro/config/MySpringMvcDispatcherServletInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/src/main/java/ru/solarev/vetpro/controllers/PeopleControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/src/main/java/ru/solarev/vetpro/dao/PersonDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/src/main/java/ru/solarev/vetpro/models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/src/main/webapp/WEB-INF/views/vet/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vetpro/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/solarev/petreg/config/MySpringMvcDispatcherServletInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/solarev/petreg/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/solarev/petreg/controllers/AnimalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/solarev/petreg/models/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/solarev/petreg/models/AnimalDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/animals/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/animals/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/animals/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/animals/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OKxFCh5P5RNlNT2mwxg9fdCb7u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "067357529b469510792520ae2837ee07"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vbnm1\OneDrive\Документы\StudyGB\Итоговая аттестация\PetRegistry\src\main\webapp\WEB-INF\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="PetRegistry:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="58c044e5-ac79-45e1-8c8e-bd24a7053b33" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63099" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="PetRegistry:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1a8679d-3bb8-4b61-a727-733e7361399b" name="Changes" comment="" />
+      <created>1681322970500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681322970500</updated>
+      <workItem from="1681322972440" duration="4373000" />
+      <workItem from="1681371946931" duration="9466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
