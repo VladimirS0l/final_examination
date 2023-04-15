@@ -1,0 +1,9 @@
+Cow
+3.2
+HOME
+Tiger
+2.0
+WILD
+Camel
+4.2
+WILD
